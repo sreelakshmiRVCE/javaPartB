@@ -27,10 +27,4 @@ User functions:
 
 Install Eclipse IDE
 
-```
-git clone https://github.com/bswiswa/thrillio.git
 
-```
-## Acknowledgments
-
-* Dheeru Mundluru
